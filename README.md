@@ -37,6 +37,6 @@ Kure Yusuf Molmela BHU/23/04/09/0067
 
 I worked on both the frontend and backend of the application
 
-<img width="1080" alt="Screenshot 2024-08-03 231754" src="https://github.com/user-attachments/assets/ab3e94e7-644f-4172-a286-837fbcc3ddef">
+<img width="1080" alt="Screenshot 2024-08-04 114459" src="https://github.com/user-attachments/assets/021baad3-ee88-4995-a9b4-99b115f83808">
 
 
