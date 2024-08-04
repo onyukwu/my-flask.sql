@@ -14,6 +14,7 @@ Kure Yusuf Molmela BHU/23/04/09/0067
 
 
 Library User Records 2024
+
 Stores the names of library users for the year 2024.
 The data can be used to reach out to the customers through their mailing address for current updates in the library and offer more resources through invites and attachments.
 At user's discretion their data can be deleted or updated for individual reasons especially if they have a different opinion about their current affiliation with the library or if they prefer to be reached through a different address.
