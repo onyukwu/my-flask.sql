@@ -19,3 +19,5 @@ Stores the names of library users for the year 2024.
 The data can be used to reach out to the customers through their mailing address for current updates in the library and offer more resources through invites and attachments.
 At user's discretion their data can be deleted or updated for individual reasons especially if they have a different opinion about their current affiliation with the library or if they prefer to be reached through a different address.
 
+<img width="1080" alt="Screenshot 2024-08-03 220318" src="https://github.com/user-attachments/assets/f7e20c49-8d1a-45bc-94ed-f8332ed06190">
+<img width="1080" alt="Screenshot 2024-08-04 113348" src="https://github.com/user-attachments/assets/069ba37c-0c2a-45fd-8525-69b00f725dda">
