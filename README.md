@@ -1,5 +1,6 @@
 ﻿# Flask-and-MySQL
 Group 50
+
 Library Users Record 2024
 
 Moge Daniel BHU/23/04/09/0091
@@ -36,5 +37,6 @@ Kure Yusuf Molmela BHU/23/04/09/0067
 
 I worked on both the frontend and backend of the application
 
+<img width="1080" alt="Screenshot 2024-08-03 231754" src="https://github.com/user-attachments/assets/ab3e94e7-644f-4172-a286-837fbcc3ddef">
 
 
