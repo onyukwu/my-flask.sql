@@ -22,18 +22,18 @@ At user's discretion their data can be deleted or updated for individual reasons
 <img width="1080" alt="Screenshot 2024-08-03 220318" src="https://github.com/user-attachments/assets/f7e20c49-8d1a-45bc-94ed-f8332ed06190">
 <img width="1080" alt="Screenshot 2024-08-04 113348" src="https://github.com/user-attachments/assets/069ba37c-0c2a-45fd-8525-69b00f725dda">
 
-#Contibutions
+# Contibutions
 
-Moge Daniel 
-BHU/23/04/09/0091
+Moge Daniel BHU/23/04/09/0091
+
 I made the first commit to the git hub link after installing .xml files and modules and also created the first read.me 
 
-Onyukwu Giddel 
-BHU/23/04/05/0091
+Onyukwu Giddel BHU/23/04/05/0091
+
 I created the repository for the group project and sent invites for collaboration
 
-Kure Yusuf Molmela 
-BHU/23/04/09/0067
+Kure Yusuf Molmela BHU/23/04/09/0067
+
 I worked on both the frontend and backend of the application
 
 
