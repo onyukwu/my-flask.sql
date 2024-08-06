@@ -41,6 +41,7 @@ Seth Ador BHU/23/04/05/0114
 
 I worked on frontend of the application
 
-<img width="1080" alt="Screenshot 2024-08-04 114459" src="https://github.com/user-attachments/assets/021baad3-ee88-4995-a9b4-99b115f83808">
+<img width="1080" alt="Screenshot 2024-08-06 203131" src="https://github.com/user-attachments/assets/ae68c6eb-9eca-4d1c-a0c5-924445076c6c">
+
 
 
