@@ -1,100 +1,94 @@
-/* static/css/styles.css */
-
-/* Basic reset */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-/* Body styling without background image */
 body {
-    font-family: Arial, sans-serif;
-    padding: 20px;
-    color: #fff;
+    background: url('{{ url_for('static', filename='images/library.jpg') }}') no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* Container styling */
-.container {
-    max-width: 800px;
-    margin: auto;
-    background: rgba(255, 255, 255, 0.8);
-    padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    color: #000;
-}
-
-/* Form styling */
-form {
+.wrapper {
     display: flex;
-    flex-direction: column;
-    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+.content {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    width: 100%;
+    max-width: 900px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
     margin-bottom: 20px;
 }
 
-form input, form button {
-    padding: 10px;
+form {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input[type="text"], input[type="email"] {
+    padding: 12px;
     font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
 
-form button {
-    background-color: #28a745;
-    color: white;
+button {
+    padding: 12px;
+    font-size: 16px;
     border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
     cursor: pointer;
+    transition: background-color 0.3s ease;
 }
 
-form button:hover {
-    background-color: #218838;
+button:hover {
+    background-color: #0056b3;
 }
 
-/* Table styling */
 table {
     width: 100%;
     border-collapse: collapse;
-}
-
-table, th, td {
-    border: 1px solid #ddd;
+    margin-top: 20px;
 }
 
 th, td {
-    padding: 10px;
+    padding: 12px;
+    border: 1px solid #ddd;
     text-align: left;
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: #f8f9fa;
+    color: #495057;
 }
 
-/* Responsive design */
-@media (max-width: 600px) {
-    form {
-        flex-direction: column;
-    }
+.actions a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #007bff;
+    transition: color 0.3s ease;
+}
 
-    th, td {
-        display: block;
-        width: 100%;
-    }
+.actions a:hover {
+    color: #0056b3;
+}
 
-    th {
-        display: none;
-    }
+.delete {
+    color: #dc3545;
+}
 
-    td {
-        text-align: right;
-        position: relative;
-        padding-left: 50%;
-    }
-
-    td::before {
-        content: attr(data-label);
-        position: absolute;
-        left: 0;
-        width: 50%;
-        padding-left: 10px;
-        font-weight: bold;
-        text-align: left;
-    }
+.delete:hover {
+    color: #c82333;
 }
